@@ -6,7 +6,7 @@ original_dir=$(pwd)
 
 source_file=$(realpath "$1")
 mkdir -p "$repo" && cd "$repo"
-ln -v "$source_file" .
+ln -vf "$source_file" .
 
 git add . && git commit -m "Add $(basename "$1")" && git push
 cd "$original_dir"
