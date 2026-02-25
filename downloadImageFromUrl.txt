@@ -1,0 +1,1 @@
+curl -o Spectral_Wolf.png https://static.wikia.nocookie.net/monster-sanctuary/images/6/62/Spectral_Wolf.png/revision/latest/scale-to-width-down/50?cb=20201204141949
